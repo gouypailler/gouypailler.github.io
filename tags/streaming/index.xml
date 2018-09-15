@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streaming on </title>
+    <link>/tags/streaming/</link>
+    <description>Recent content in Streaming on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/streaming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projet StreamOps - institut DataIA</title>
+      <link>/project/streamops/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/streamops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketching for Machine Learning</title>
+      <link>/project/sketching4ml/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/sketching4ml/</guid>
+      <description>Summary</description>
+    </item>
+    
+  </channel>
+</rss>

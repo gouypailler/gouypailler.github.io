@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on </title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Graph sketching-based Space-efficient Data Clustering</title>
+      <link>/publication/2018-01-01_morvcga18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_morvcga18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph-based Clustering under Differential Privacy</title>
+      <link>/publication/2018-01-01_pinomyga18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_pinomyga18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-preserving tax calculations in smart cities by means of Inner-Product Functional Encryption</title>
+      <link>/publication/2018-01-01_stansgbbz18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_stansgbbz18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming Binary Sketching Based on Subspace Tracking and Diagonal Uniformization</title>
+      <link>/publication/2018-01-01_morvaga18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_morvaga18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured adaptive and random spinners for fast machine learning computations</title>
+      <link>/publication/2017-01-01_bojaccfgmssa17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_bojaccfgmssa17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WHODID: Web-Based Interface for Human-Assisted Factory Operations in Fault Detection, Identification and Diagnosis</title>
+      <link>/publication/2017-01-01_blang17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_blang17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
