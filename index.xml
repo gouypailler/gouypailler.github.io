@@ -40,16 +40,6 @@
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Graph sketching-based Space-efficient Data Clustering</title>
       <link>/publication/2018-01-01_morvcga18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -334,6 +324,16 @@ git submodule update --init --recursive
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>/project/diffprivml/</guid>
+      <description>&lt;p&gt;Summary&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sketching for Machine Learning</title>
+      <link>/project/sketching4ml/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/sketching4ml/</guid>
       <description>&lt;p&gt;Summary&lt;/p&gt;
 </description>
     </item>
