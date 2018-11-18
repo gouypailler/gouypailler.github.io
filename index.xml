@@ -40,6 +40,16 @@
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Graph sketching-based Space-efficient Data Clustering</title>
       <link>/publication/2018-01-01_morvcga18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -118,6 +128,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/irt-sce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards randomized algorithms for preserving robustness of graph classification networks against adversarial attacks</title>
+      <link>/jobs/intern2019/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/jobs/intern2019/</guid>
       <description></description>
     </item>
     
@@ -316,26 +335,6 @@ git submodule update --init --recursive
       
       <guid>/publication/2016-01-01_harlcga16/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Differential privacy in Machine Learning applications</title>
-      <link>/project/diffprivml/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/project/diffprivml/</guid>
-      <description>&lt;p&gt;Summary&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sketching for Machine Learning</title>
-      <link>/project/sketching4ml/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/project/sketching4ml/</guid>
-      <description>&lt;p&gt;Summary&lt;/p&gt;
-</description>
     </item>
     
   </channel>

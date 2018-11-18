@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Applications on </title>
-    <link>/tags/applications/</link>
-    <description>Recent content in Applications on </description>
+    <title>Jobs on </title>
+    <link>/jobs/</link>
+    <description>Recent content in Jobs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/applications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/jobs/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Smart City Energy Analytics</title>
-      <link>/project/irt-sce/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/project/irt-sce/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Towards randomized algorithms for preserving robustness of graph classification networks against adversarial attacks</title>
