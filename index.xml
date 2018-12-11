@@ -11,6 +11,54 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Large Graphs Mining</title>
+      <link>/teaching/telecomsudparis_bigdata/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/teaching/telecomsudparis_bigdata/</guid>
+      <description>
+
+&lt;h1 id=&#34;plan-du-cours&#34;&gt;Plan du cours&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Séance du 28/11/2018&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Bases de théorie des graphes&lt;/li&gt;
+&lt;li&gt;Analyse des liens d&amp;rsquo;un graphe&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Séance du 03/12/2018 &lt;a href=&#34;https://gouypailler.github.io/courses/bigdata_telecomSudParis/course2/slides.html&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Clustering des noeuds d&amp;rsquo;un graphe&lt;/li&gt;
+&lt;li&gt;Détection de communautés&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Séance du 12/12/2018&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Séance de TD (détection de communautés)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Séance du 09/01/2019&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Plongement d&amp;rsquo;un graphe dans $\mathbb{R}^d$&lt;/li&gt;
+&lt;li&gt;Des approches classiques aux approches par réseaux de neurones (Graph Neural Networks)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Séance du 16/01/2019&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Séance de TD (plongement d&amp;rsquo;un graphe)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Projet StreamOps - institut DataIA</title>
       <link>/project/streamops/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0200</pubDate>
@@ -326,15 +374,6 @@ git submodule update --init --recursive
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Bayesian Model for Multiple Change-Points Detection in Multivariate Time Series</title>
-      <link>/publication/2016-01-01_harlcga16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2016-01-01_harlcga16/</guid>
-      <description></description>
     </item>
     
   </channel>

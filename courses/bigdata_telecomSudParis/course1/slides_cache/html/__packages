@@ -1,0 +1,10 @@
+base
+sigmaNet
+igraph
+igraphdata
+maps
+geosphere
+dplyr
+nycflights13
+bindrcpp
+gdtools

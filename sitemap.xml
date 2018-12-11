@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/teaching/telecomsudparis_bigdata/</loc>
+      <lastmod>2018-12-03T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/streamops/</loc>
       <lastmod>2018-09-15T00:00:00+02:00</lastmod>
     </url>
@@ -225,6 +233,15 @@
     
     <url>
     
+      <loc>/tags/bigdata/</loc>
+      <lastmod>2018-12-03T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -316,6 +333,15 @@
     
       <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/teaching/</loc>
+      <lastmod>2018-12-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

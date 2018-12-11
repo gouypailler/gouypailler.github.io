@@ -117,11 +117,10 @@ function GetLatestReleaseInfo() { $.getJSON(&amp;lsquo;https://api.github.com/re
     <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0100</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>I am a lecturer for the following course at Télécom SudParis:
- Traitement statistique de données en grande dimension  </description>
+      <description></description>
     </item>
     
     <item>
