@@ -18,12 +18,11 @@
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0100</pubDate>
       
       <guid>/teaching/telecomsudparis_bigdata/</guid>
-      <description> Plan du cours  Séance du 28/11/2018 slides
+      <description>Plan du cours  Séance du 28/11/2018 slides
  Introduction Bases de théorie des graphes Analyse des liens d&amp;rsquo;un graphe  Séance du 03/12/2018 slides
  Clustering des noeuds d&amp;rsquo;un graphe Détection de communautés  Séance du 12/12/2018
- Enoncé imdb_actor_edges.tsv imdb_actors_key.tsv  Séance du 09/01/2019
- Plongement d&amp;rsquo;un graphe dans $\mathbb{R}^d$ Des approches classiques aux approches par réseaux de neurones (Graph Neural Networks)  Séance du 16/01/2019
- Séance de TD (plongement d&amp;rsquo;un graphe)   </description>
+ Enoncé imdb_actor_edges.tsv imdb_actors_key.tsv chargement des données aide.R  Séance du 09/01/2019
+ Plongement d&amp;rsquo;un graphe dans $\mathbb{R}^d$ Des approches classiques aux approches par réseaux de neurones (Graph Neural Networks)  Séance du 16/01/2019</description>
     </item>
     
   </channel>
