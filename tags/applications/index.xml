@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/applications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3-year Ph.D. -- robustness and privacy of graph neural networks</title>
+      <link>/jobs/phdcryptorobust2019/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/jobs/phdcryptorobust2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R&amp;D engineer -- 18 months</title>
+      <link>/jobs/cddstreamops2019/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/jobs/cddstreamops2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M2 intership -- robustness of graph neural networks</title>
+      <link>/jobs/intern2019/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/jobs/intern2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Smart City Energy Analytics</title>
@@ -18,15 +45,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/irt-sce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards randomized algorithms for preserving robustness of graph classification networks against adversarial attacks</title>
-      <link>/jobs/intern2019/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/jobs/intern2019/</guid>
       <description></description>
     </item>
     

@@ -97,7 +97,7 @@ function GetLatestReleaseInfo() { $.getJSON(&amp;lsquo;https://api.github.com/re
     </item>
     
     <item>
-      <title>Jobs offers</title>
+      <title>Job offers</title>
       <link>/home/jobs/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
